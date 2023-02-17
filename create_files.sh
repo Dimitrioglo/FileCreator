@@ -2,7 +2,7 @@ paramparser() {
     # Define default values
     count=${count:- 10}
     fileinput=${fileinput:- ""}
-    fileout=${fileout:- "testing file nr"}
+    fileout=${fileout:- "testing file 2.2mb nr"}
     filetype=${filetype:- "docx"}
 
     # Assign the values given by the user
